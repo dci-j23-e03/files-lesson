@@ -1,0 +1,1 @@
+This is just some text to try out io operations. Some localized characters: kuća
